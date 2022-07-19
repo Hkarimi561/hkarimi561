@@ -7,3 +7,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hkarimi561&layout=compact&theme=tokyonight)](https://github.com/Hkarimi561/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=Hkarimi561&style=for-the-badge&label=PROFILE+VIEWS)
+
